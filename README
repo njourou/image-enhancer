@@ -1,0 +1,18 @@
+# Image Enhancement Script
+
+This Python script enhances all images in a specified folder by adjusting brightness, contrast, and sharpness. The enhanced images are saved to an output folder.
+
+## Requirements
+
+- Python 3.x
+- Pillow library
+
+## Installation
+
+1. **Install Python**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+
+2. **Install Pillow**: Install the Pillow library using pip:
+   ```sh
+   pip install pillow
+   
+python enhance_images.py
